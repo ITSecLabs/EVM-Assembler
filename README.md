@@ -16,3 +16,5 @@ Source syntax:
 * Each opcode must be on a new line
 * Parameters for PUSH1 to PUSH32 must be provided in hex with leading '0x'
 * Comments can be written by prefixing the line with '#'
+
+Created by (https://www.itseclabs.com "IT Security Labs")
